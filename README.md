@@ -1,1 +1,1 @@
-# Arithmetic-Logic-Shift-Unit-Design-Verification
+# Arithmetic Logic Shift Unit Design & Verification
