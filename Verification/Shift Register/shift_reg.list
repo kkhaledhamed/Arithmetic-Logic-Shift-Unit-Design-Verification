@@ -1,0 +1,16 @@
+shift_reg.v
+shift_reg_config_pkg.sv
+shared_pkg.sv
+shift_reg_if.sv
+shigt_reg_main_sequence_pkg.sv
+shigt_reg_reset_sequence_pkg.sv
+shigt_reg_sequence_item_pkg.sv
+MySequencer_pkg.sv
+package_shift_reg_env_pkg.sv
+package_shift_reg_test_pkg.sv
+shift_reg_driver_pkg.sv
+shift_reg_agent_pkg.sv
+shift_reg_scoreboard_pkg.sv
+shift_reg_monitor_pkg.sv
+shift_reg_coverage_pkg.sv
+top.sv
