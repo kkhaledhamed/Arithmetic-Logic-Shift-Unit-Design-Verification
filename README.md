@@ -54,7 +54,7 @@ Synthesis and Implementation
 Tools Used: Xilinx Vivado for synthesis, timing, and resource utilization reports.
 Post-Synthesis Schematic:
 Visualized using Vivado after elaboration.
-نسخ
+
 ### Key Reports and Observations
 #### Code Coverage Metrics:
 - Utilization Report:
